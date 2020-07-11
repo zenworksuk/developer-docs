@@ -15,7 +15,7 @@ theme:
   icon:
     logo: material/school
 
-copyright: Except as otherwise noted, the content of this page is licensed under CC-BY-4.0 <https://creativecommons.org/licenses/by/4.0/> license. Third-party product names and logos may be the trademarks of their respective owners.
+copyright: Except as otherwise noted, the content of this page is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license. Third-party product names and logos may be the trademarks of their respective owners.
 
 plugins:
   - search

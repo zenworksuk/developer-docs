@@ -1,0 +1,38 @@
+site_name: Developer Docs
+site_description: Documentation for everyone working at Zenworks.
+site_url: https://docs.hq.zenworks.uk
+repo_name: ZenworksUK/developer-docs
+repo_url: https://github.com/ZenworksUK/developer-docs
+
+theme:
+  name: material
+  language: en
+  palette:
+    primary: "blue"
+    accent: "blue"
+  features:
+    - tabs
+  icon:
+    logo: material/school
+
+copyright: Except as otherwise noted, the content of this page is licensed under CC-BY-4.0 <https://creativecommons.org/licenses/by/4.0/> license. Third-party product names and logos may be the trademarks of their respective owners.
+
+plugins:
+  - search
+  - git-revision-date-localized
+
+markdown_extensions:
+  - meta
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - meta

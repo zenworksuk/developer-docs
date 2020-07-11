@@ -139,7 +139,7 @@ You can also have a `CODE_OF_CONDUCT.md` file linking to expected communication 
 standards expected of contributors. All open repositories should have a code of conduct.
 
 !!! tip ""
-		A standard code of conduct is to come. In the mean time, we suggest using the Contributor
+    A standard code of conduct is to come. In the mean time, we suggest using the Contributor
 		Covenant
 
 You can also credit individual contributors or link to other repositories that inspired your

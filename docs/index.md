@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Zenworks internal documentation
 
 This is the internal documentation for Zenworks' technical teams.
@@ -5,7 +9,7 @@ This is the internal documentation for Zenworks' technical teams.
 New to the team? Read how to [get started developing](/manual/get-started).
 
 !!! tip ""
-		This is documentation purely for technical teams.
+    This is documentation purely for technical teams.
 		The company handbook, which provides details for the whole org, can be viewed
 		at [handbook.hq.zenworks.uk](https://handbook.hq.zenworks.uk).
 

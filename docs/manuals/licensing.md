@@ -26,5 +26,5 @@ For example, `Copyright (c) Elliott Mozley (trading as Zenworks)`
 The year should be the year the code was first published. Where the code is continually updated with significant changes, you can show the year as a period from first to most recent update, for example 2015-2019.
 
 !!! tip ""
-		Once Zenworks is registered, this needs to be changed immediately so that copyright is
+    Once Zenworks is registered, this needs to be changed immediately so that copyright is
 		under Zenworks, not Elliott Mozley (trading as Zenworks)
